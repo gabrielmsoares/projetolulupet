@@ -8,10 +8,4 @@ Além de outros recursos falados nas aulas!
 
 
 
-Você deve criar um site de uma clínica médica (você escolhe a especialidade)
-Este site deve conter o seguinte menu de navegação:
-Página Principal
-Sobre a clínica
-Horário de Atendimento
-Contato
-Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aula
+Voce confere o desafio completo em: https://github.com/digitalinnovationone/trilha-html-modulo-2
